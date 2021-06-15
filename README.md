@@ -1,7 +1,11 @@
 # DevOps-Episodes
 `Slides and Study Materials for DevOps Episodes Meetups`
 
-Also refer Gist for "Jenkins on EC2" - https://gist.github.com/prasanjit-/a3f2036594c41ff2a21beffb0f09d78d
+[![BINPIPE](https://img.shields.io/badge/DevOps-Episode01-blue)](https://www.youtube.com/watch?v=24Og6gqsLUU) 
+[![BINPIPE](https://img.shields.io/badge/DevOps-Episode02-blue)](https://www.youtube.com/watch?v=24Og6gqsLUU)
+[![BINPIPE](https://img.shields.io/badge/DevOps-Episode03-blue)](https://www.youtube.com/watch?v=24Og6gqsLUU) 
+
+You can refer to this Gist for [Installing Jenkins on EC2](https://gist.github.com/prasanjit-/a3f2036594c41ff2a21beffb0f09d78d)
 
 ### Docker Essentials Resources
 
