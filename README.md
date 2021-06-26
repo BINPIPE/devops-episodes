@@ -7,6 +7,19 @@
 
 You can refer to this Gist for [Installing Jenkins on EC2](https://gist.github.com/prasanjit-/a3f2036594c41ff2a21beffb0f09d78d)
 
+Here are the relevant links of resources covered in the devops episodes:
+
+- Repositories: 
+:ledger: https://github.com/BINPIPE/devops-episodes
+:ledger: https://github.com/BINPIPE/blueocean
+:ledger: https://github.com/BINPIPE/flask-app-cicd
+
+- Slides: 
+:ledger: https://github.com/BINPIPE/devops-episodes/blob/main/DevOps-Episodes-01-AWS-UG.pdf
+- Snippets: 
+:ledger: https://gist.github.com/prasanjit-/a3f2036594c41ff2a21beffb0f09d78d
+
+
 ### Docker Essentials Resources
 
 `Learning Resources for DevOps, SRE, Cloud & Engineering Management`
