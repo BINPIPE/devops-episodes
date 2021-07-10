@@ -5,16 +5,24 @@
 [![BINPIPE](https://img.shields.io/badge/DevOps-Episode02-blue)](https://youtu.be/0p35-b4Uihw)
 [![BINPIPE](https://img.shields.io/badge/DevOps-Episode03-blue)](https://www.youtube.com/watch?v=24Og6gqsLUU) 
 
+[![BINPIPE](https://img.youtube.com/vi/24Og6gqsLUU/0.jpg)](https://www.youtube.com/watch?v=24Og6gqsLUU)
+[![BINPIPE](https://img.youtube.com/vi/0p35-b4Uihw/0.jpg)](https://www.youtube.com/watch?v=0p35-b4Uihw)
+[![BINPIPE](https://img.youtube.com/vi/24Og6gqsLUU/0.jpg)](https://www.youtube.com/watch?v=24Og6gqsLUU)
+
+
+
+
 You can refer to this Gist for [Installing Jenkins on EC2](https://gist.github.com/prasanjit-/a3f2036594c41ff2a21beffb0f09d78d)
 
 Here are the relevant links of resources covered in the devops episodes:
 
-- Repositories: 
-:ledger: https://github.com/BINPIPE/devops-episodes
-:ledger: https://github.com/BINPIPE/blueocean
-:ledger: https://github.com/BINPIPE/flask-app-cicd
-:ledger: https://github.com/BINPIPE/ecs_terraform_workshop
-:ledger: https://github.com/BINPIPE/color-test-app
+- Repositories:  
+:ledger: https://github.com/BINPIPE/devops-episodes  
+:ledger: https://github.com/BINPIPE/blueocean  
+:ledger: https://github.com/BINPIPE/flask-app-cicd  
+:ledger: https://github.com/BINPIPE/ecs_terraform_workshop  
+:ledger: https://github.com/BINPIPE/color-test-app  
+
 
 - Slides: 
 :ledger: https://github.com/BINPIPE/devops-episodes/blob/main/DevOps-Episodes-01-AWS-UG.pdf
@@ -22,9 +30,10 @@ Here are the relevant links of resources covered in the devops episodes:
 :ledger: https://gist.github.com/prasanjit-/a3f2036594c41ff2a21beffb0f09d78d
 
 
-### Docker Essentials Resources
 
-`Learning Resources for DevOps, SRE, Cloud & Engineering Management`
+
+### Bonus! Docker Notes & Best Practices
+
 
 [![BINPIPE](https://img.shields.io/badge/BINPIPE-YouTube-red)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A?sub_confirmation=1)
 [![Learn DevOps!](https://img.shields.io/badge/BINPIPE-Learn--DevOps-orange)](https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md)
@@ -37,7 +46,7 @@ Other Curated List of Useful Learning Resources
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `This repository contains scripts and files used for` [Docker Essentials Guided Project at Coursera](https://www.coursera.org/projects/docker-container-essentials-web-app) `and other useful study notes around Docker.`
 
-### Bonus! Docker Notes & Best Practices
+
 
 ```
 1. Docker Architecture
