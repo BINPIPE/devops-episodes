@@ -7,7 +7,7 @@
 
 [![BINPIPE](https://img.youtube.com/vi/24Og6gqsLUU/0.jpg)](https://www.youtube.com/watch?v=24Og6gqsLUU)
 [![BINPIPE](https://img.youtube.com/vi/0p35-b4Uihw/0.jpg)](https://www.youtube.com/watch?v=0p35-b4Uihw)
-[![BINPIPE](https://img.youtube.com/vi/24Og6gqsLUU/0.jpg)](https://www.youtube.com/watch?v=24Og6gqsLUU)
+[![BINPIPE](https://img.youtube.com/vi/24Og6gqsLUU/0.jpg)](https://youtu.be/wjAFJ0jPC1A)
 
 
 
