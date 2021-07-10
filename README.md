@@ -20,6 +20,7 @@ Here are the relevant links of resources covered in the devops episodes:
 :ledger: https://github.com/BINPIPE/devops-episodes  
 :ledger: https://github.com/BINPIPE/blueocean  
 :ledger: https://github.com/BINPIPE/flask-app-cicd  
+:ledger: https://github.com/prasanjit-/codepipeline-codedeploy-example  
 :ledger: https://github.com/BINPIPE/ecs_terraform_workshop  
 :ledger: https://github.com/BINPIPE/color-test-app  
 
