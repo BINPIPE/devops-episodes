@@ -3,13 +3,11 @@
 
 [![BINPIPE](https://img.shields.io/badge/DevOps-Episode01-blue)](https://www.youtube.com/watch?v=24Og6gqsLUU) 
 [![BINPIPE](https://img.shields.io/badge/DevOps-Episode02-blue)](https://youtu.be/0p35-b4Uihw)
-[![BINPIPE](https://img.shields.io/badge/DevOps-Episode03-blue)](https://www.youtube.com/watch?v=24Og6gqsLUU) 
+[![BINPIPE](https://img.shields.io/badge/DevOps-Episode03-blue)](https://youtu.be/jOSaMZTCi4Q) 
 
 [![BINPIPE](https://img.youtube.com/vi/24Og6gqsLUU/0.jpg)](https://www.youtube.com/watch?v=24Og6gqsLUU)
 [![BINPIPE](https://img.youtube.com/vi/0p35-b4Uihw/0.jpg)](https://www.youtube.com/watch?v=0p35-b4Uihw)
-[![BINPIPE](https://img.youtube.com/vi/24Og6gqsLUU/0.jpg)](https://youtu.be/wjAFJ0jPC1A)
-
-
+[![BINPIPE](https://img.youtube.com/vi/24Og6gqsLUU/0.jpg)](https://youtu.be/jOSaMZTCi4Q)
 
 
 You can refer to this Gist for [Installing Jenkins on EC2](https://gist.github.com/prasanjit-/a3f2036594c41ff2a21beffb0f09d78d)
